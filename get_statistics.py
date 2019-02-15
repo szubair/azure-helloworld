@@ -1,4 +1,3 @@
-#!/usr/bin/python -u
 import boto3
 import sys
 sys.stdout.flush()
